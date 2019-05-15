@@ -14,4 +14,4 @@ Any feedback is welcome!
 ## Tested devices on which the app crashes
 - OnePlus 3 (Android 8)
 - Samsung Galaxy S9 (Android 9)
-- Google Pixel 3 (Android 9)
+- Google Pixel 2 (Android 9)
