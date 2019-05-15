@@ -7,4 +7,6 @@ Clean `react-native init` project with signed APK for release crashes on app lau
 - https://github.com/facebook/react-native/issues/23352
 - https://github.com/facebook/react-native/issues/24260
 
+*APK file is in `/apk`*
+
 Any feedback is welcome!
